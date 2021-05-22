@@ -1,0 +1,57 @@
+Locations:
+  #Explication : Monde;X;Y;Z;Yaw;Pitch
+  FirstSpawn: world;0.0;0.0;0.0;0.0;0.0
+  FinishCreatingCharacter: world;0.0;0.0;0.0;0.0;0.0
+
+Salary: 100
+DarknetPassword: "DarknetPassword"
+
+NPC:
+  #IDs des NPC avec vous devez selectionnez
+  #un NPC puis faire /npc id
+  Cuisinier: 1
+  Bucheron: 1
+  Mineur: 1
+  Fermier: 1
+  Médecin: 1
+  Eboueur: 1
+  
+  Commissariat: 1
+  
+Time:
+
+  Rankup:
+    #En minutes !
+    Médecin: 1
+    Cadet: 1
+    Sergent: 1
+    Sergent_Chef: 1
+    Commandant: 1
+    FBI: 1
+
+  Delay:
+    #En secondes !
+    Default: 120
+    #Explication : Un delay entre 120 et 240 seconndes = 120;240
+    Mineur: 120;240
+  
+Items:
+
+  Phone:
+    Type: DIRT
+    Name: "Nom de l'item"
+    Lore: |-
+      &7Desciption
+      &7...
+      &7...
+      
+  Convocation:
+    Type: DIRT
+    Name: "Nom de l'item"
+    Lore: |-
+      &7Desciption
+      &7...
+      &7...
+  
+Permission:
+  BypassBreakBlockRegen: "PrimsRP.Bypass.BreakBlockRegen"

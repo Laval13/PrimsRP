@@ -1,0 +1,183 @@
+Menus:
+
+  Commissariat:
+  
+    Title: "Nom du menu"
+    Size: 9 #Un multiple de 9
+  
+    Cadet:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Sergent:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Sergent_Chef:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Commandant:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    FBI:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+  Phone:
+  
+    Title: "Nom du menu"
+    Size: 9 #Un multiple de 9
+  
+    Message:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Appel:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    GPS:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Darknet:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+     
+  Appel:
+  
+    Title: "Nom du menu"
+    Size: 9 #Un multiple de 9
+  
+    Police:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    EMS:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    UberEat:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Mairie:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+  Darknet:
+  
+    Title: "Nom du menu"
+    Size: 9 #Un multiple de 9
+  
+    Inconnu:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Vendeur:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Acheteur:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    RequestCoordonnee:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...
+        
+    Pub:
+      Type: DIRT
+      Name: "Nom de l'item"
+      Slot: 1
+      Lore: |-
+        &7Desciption
+        &7...
+        &7...

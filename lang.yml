@@ -1,0 +1,90 @@
+Messages:
+  Accepted: "Accepted"
+  Refused: "Refused"
+
+  ChooseFirstName: "ChooseFirstName"
+  InvalidFirstName: "InvalidFirstName"
+  ChooseName: "ChooseName"
+  InvalidName: "InvalidName"
+  ChooseSexe: "ChooseSexe"
+  InvalidSexe: "InvalidSexe"
+  ChooseAge: "ChooseAge"
+  LimitAge: "LimitAge"
+  InvalidAge: "InvalidAge"
+  FinishCreatingCharacter: "FinishCreatingCharacter"
+  
+  #Vous pouvez mettre %job% pour avoir le nom du métiers 
+  HasAleardyThisJob: "HasAleardyThisJob"
+  ChangeToNewJob: "ChangeToNewJob"
+  
+  #Vous pouvez mettre %time% pour avoir le temps
+  #nécessaire pour le métier en question
+  IHaventGoodPlayedTime: "IHaventGoodPlayedTime"
+  
+  SMS:
+    Help: "Help"
+    
+    #Vous pouvez mettre %player% pour avoir le nom du joueur
+    #Vous pouvez mettre %message% pour avoir le message
+    Sent: "Sent"
+    Recived: "Recived"
+    TargetOffline: "TargetOffline"
+    PlayerHaventPhone: "PlayerHaventPhone"
+    TargetHaventPhone: "TargetHaventPhone"
+ 
+  Appel:
+    Médecin: "Médecin"
+    Cuisinier: "Cuisinier"
+    Maire: "Maire"
+    Policiers: "Policiers"
+   
+    WaitHereServiceGoingOn: "WaitHereServiceGoingOn"
+   
+    Refused: "Refused"
+    #Vous pouvez mettre %loc% pour avoir les
+    #coordonnées du joueur (X: ... Y: ... Z: ...)
+    Accepted: "Accepted"
+
+    Mairie:
+      SentConvocation: "SentConvocation" 
+      RevicedConvocation: "RevicedConvocation" 
+      RemovedConvocation: "RemovedConvocation"
+
+  Darknet:
+    WhatThePassword: "WhatThePassword"
+    WrongPassword: "WrongPassword"
+    GoodPassword: "GoodPassword"
+    WhatYourPub: "WhatYourPub"
+    #Vous pouvez mettre %player% pour avoir le nom du joueur
+    #Vous pouvez mettre %message% pour avoir le message
+    #Les caracteres bizzare c'est &k puis le texte
+    PubChatFormat: "PubChatFormat"
+    
+    Discussion:
+    
+      Inconnu:
+        - "test"
+        - "test"
+        
+      Vendeur:
+        - "test"
+        - "test"  
+        
+      Acheteur:
+        - "test"
+        - "test"
+        
+    Request:
+      Target: "Target"
+      InvalidChoose: "InvalidChoose"
+      Accepted: "Accepted"
+      Refused: "Refused"
+      #Vous pouvez mettre %loc% pour avoir les
+      #coordonnées du joueur (X: ... Y: ... Z: ...)
+      SenderAccepted: "SenderAccepted"
+      SenderRefused: "SenderRefused"
+      #Vous pouvez mettre %loc% pour NOMBRE de
+      #secondes restantes
+      ActionBarHack: "ActionBarHack"
+
+   

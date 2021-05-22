@@ -1,0 +1,11 @@
+name: PrimsRP
+version: 1.0
+author: Laval_13
+main: fr.Laval_13.PrimsRP.PrimsRP
+commands:
+  sms:
+    description:
+  appel:
+    description:
+  phone:
+    description:
